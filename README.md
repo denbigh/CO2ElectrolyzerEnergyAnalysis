@@ -2,7 +2,7 @@ This folder contains code for generation of all plots in "Electrolyzer Energy
 Dominates Separation Costs in State-of-the-Art CO2 Electrolyzers: Implications 
 for Single-Pass CO2 Utilization" by Moore et al. 
 
-#Electrolyzer_Model.py
+# Electrolyzer_Model.py
 Process model. Implements electrolyzer and gas separation calculations, global 
 mass and energy balances, and TEA calculations. Run using Python kernel 3.7.11.  
 
@@ -16,6 +16,7 @@ A Jupyter notebook which calculates stripper heat duty via the methodology of
 Kim et al., and generates Figures 5, S6, S7 and S8. Run using Julia kernel 
 1.7.1.
 
+# License
 Copyright (c) 2023 Thomas Moore
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
